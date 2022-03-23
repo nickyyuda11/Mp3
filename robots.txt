@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Allow: /
+Disallow: /dlyt.php
+
+User-agent: msnbot
+Allow: /
+Disallow: /dlyt.php
+
+User-agent: Yandex
+Allow: /
+Disallow: /dlyt.php
+
+User-agent: naverbot
+Allow: /
+Disallow: /dlyt.php
+
+User-agent: baiduspider
+Allow: /
+Disallow: /dlyt.php
+
+User-agent: Slurp
+Allow: /
+Disallow: /dlyt.php
+
+User-agent: *
+Allow: /
